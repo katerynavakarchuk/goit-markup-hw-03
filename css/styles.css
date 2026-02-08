@@ -107,11 +107,12 @@ align-items: center;}
 
 .hero {
   background-color: #2e2f42;
-  padding: 16px 32px ;
+  padding: 188px 0;
  
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+
 
 }
 
@@ -128,7 +129,8 @@ align-items: center;}
 .hero-button {
   display: block;
   min-width: 169px;
-  height: 16px 32px;
+  height: 56px;
+  padding: 16px 32px;
   margin: 0 auto;
   font-family: inherit;
   font-weight: 500;
